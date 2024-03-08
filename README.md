@@ -2,7 +2,11 @@
 
 I am a full-stack developer interested in distributed systems, databases.
 
-Stduent at Northeastern Univeristy
+Student at Northeastern University.
+
+Former student at South China Agricultural University.
+
+So lucky to have spent my student time in the cities I love most: Guangzhou and Seattle.
 
 <!--
 **okxiaochen/okxiaochen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
