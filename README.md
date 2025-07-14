@@ -1,1 +1,15 @@
-Full-stack tinkerer with a soft spot for AI (because if you can’t beat the bots, join ’em). Former Northeastern grad and South China Agricultural University alum—survived Guangzhou’s humidity and Seattle’s drizzle, but still can’t figure out why my deployments fail at 3 AM. Always humbled by PagerDuty alerts and endlessly Googling “how does AI really work?” 🚀
+**Full-stack tinkerer with a soft spot for AI**  
+_(because if you can’t beat the bots, join ’em)_
+
+- **Education**  
+  - Northeastern University – Former grad  
+  - South China Agricultural University – Alum
+
+- **Life experience**  
+  - Survived Guangzhou’s humidity 🌴  
+  - Weathered Seattle’s drizzle ☔
+
+- **Fun fact**  
+  - Still can’t figure out why my deployments fail at 3 AM  
+  - Eternally humbled by PagerDuty alerts  
+  - Endlessly Googling *“how does AI really work?”* 🤖✨
