@@ -6,8 +6,11 @@ _(because if you can’t beat the bots, join ’em)_
   - South China Agricultural University – Alum
 
 - **Life experience**  
-  - Survived Guangzhou’s humidity 🌴  
+  - Survived Guangzhou’s humidity 🌴
+  - Endured Beijing’s sandstorms 😷
   - Weathered Seattle’s drizzle ☔
+  - Toughed out Boston’s snow ❄️
+  - Now soaking up San Jose’s sunshine ☀️
 
 - **Fun fact**  
   - Still can’t figure out why my deployments fail at 3 AM  
